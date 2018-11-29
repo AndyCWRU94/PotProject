@@ -1,58 +1,56 @@
-"Title: Opioid Overdose Death Rates and All Drug Overdose Death Rates per 100,000 Population (Age-Adjusted) | The Henry J. Kaiser Family Foundation",,,,
-Timeframe: 2014,,,,
 Location,Opioid Overdose Death Rate (Age-Adjusted),All Drug Overdose Death Rate (Age-Adjusted),Percent Change in Opioid Overdose Death Rate from Prior Year,Percent Change in All Drug Overdose Death Rate from Prior Year
-United States,9,14.7,0.14,0.07
-Alabama,5.6,15.2,0.6,0.2
-Alaska,10.6,16.8,0.15,0.17
-Arizona,8.8,18.2,0.07,-0.03
-Arkansas,6.3,12.6,0.13,0.14
-California,5,11.1,0.02,0
-Colorado,9.4,16.3,0.18,0.05
-Connecticut,15.2,17.6,0.24,0.1
-Delaware,13.9,20.9,0.09,0.12
-District of Columbia,9.4,14.2,0.09,-0.05
-Florida,7.2,13.2,0.09,0.05
-Georgia,7,11.9,0.32,0.1
-Hawaii,3.9,10.9,-0.17,-0.01
-Idaho,5,13.7,0.04,0.02
-Illinois,9.4,13.1,0.13,0.08
-Indiana,7.3,18.2,0.28,0.1
-Iowa,5.3,8.8,-0.13,-0.05
-Kansas,6,11.7,0.05,-0.03
-Kentucky,16.8,24.7,0.08,0.04
-Louisiana,5.7,16.9,-0.03,-0.05
-Maine,13.7,16.8,0.38,0.27
-Maryland,15,17.4,0.22,0.19
-Massachusetts,17,19,0.28,0.19
-Michigan,10.9,18,0.16,0.13
-Minnesota,6,9.6,0.07,0
-Mississippi,3.9,11.6,0.15,0.07
-Missouri,12,18.2,0.12,0.04
-Montana,5.4,12.4,-0.25,-0.14
-Nebraska,3.2,7.2,0.45,0.11
-Nevada,12.7,18.4,-0.07,-0.13
-New Hampshire,23.4,26.2,0.98,0.74
-New Jersey,8.2,14,0.08,-0.03
-New Mexico,20.2,27.3,0.26,0.21
-New York,8.6,11.3,0.04,0
-North Carolina,10,13.8,0.15,0.07
-North Dakota,4.5,6.3,NSD,1.25
-Ohio,19.1,24.6,0.31,0.18
-Oklahoma,13,20.3,-0.03,-0.01
-Oregon,8.3,12.8,0.11,0.13
-Pennsylvania,9,21.9,0.15,0.13
-Rhode Island,19.8,23.4,0.09,0.04
-South Carolina,10.7,14.4,0.98,0.11
-South Dakota,4.1,7.8,-0.07,0.13
-Tennessee,13.4,19.5,0.13,0.08
-Texas,4.3,9.7,0.08,0.04
-Utah,16.8,22.4,0.06,0.01
-Vermont,11,13.9,-0.05,-0.08
-Virginia,9.1,11.7,0.2,0.15
-Washington,9.2,13.3,0.03,-0.01
-West Virginia,31.6,35.5,0.13,0.1
-Wisconsin,11.1,15.1,0.05,0.01
-Wyoming,9.3,19.4,0.08,0.13
+United States,9,14.7,14.00%,7.00%
+Alabama,5.6,15.2,60.00%,20.00%
+Alaska,10.6,16.8,15.00%,17.00%
+Arizona,8.8,18.2,7.00%,-3.00%
+Arkansas,6.3,12.6,13.00%,14.00%
+California,5,11.1,2.00%,0.00%
+Colorado,9.4,16.3,18.00%,5.00%
+Connecticut,15.2,17.6,24.00%,10.00%
+Delaware,13.9,20.9,9.00%,12.00%
+District of Columbia,9.4,14.2,9.00%,-5.00%
+Florida,7.2,13.2,9.00%,5.00%
+Georgia,7,11.9,32.00%,10.00%
+Hawaii,3.9,10.9,-17.00%,-1.00%
+Idaho,5,13.7,4.00%,2.00%
+Illinois,9.4,13.1,13.00%,8.00%
+Indiana,7.3,18.2,28.00%,10.00%
+Iowa,5.3,8.8,-13.00%,-5.00%
+Kansas,6,11.7,5.00%,-3.00%
+Kentucky,16.8,24.7,8.00%,4.00%
+Louisiana,5.7,16.9,-3.00%,-5.00%
+Maine,13.7,16.8,38.00%,27.00%
+Maryland,15,17.4,22.00%,19.00%
+Massachusetts,17,19,28.00%,19.00%
+Michigan,10.9,18,16.00%,13.00%
+Minnesota,6,9.6,7.00%,0.00%
+Mississippi,3.9,11.6,15.00%,7.00%
+Missouri,12,18.2,12.00%,4.00%
+Montana,5.4,12.4,-25.00%,-14.00%
+Nebraska,3.2,7.2,45.00%,11.00%
+Nevada,12.7,18.4,-7.00%,-13.00%
+New Hampshire,23.4,26.2,98.00%,74.00%
+New Jersey,8.2,14,8.00%,-3.00%
+New Mexico,20.2,27.3,26.00%,21.00%
+New York,8.6,11.3,4.00%,0.00%
+North Carolina,10,13.8,15.00%,7.00%
+North Dakota,4.5,6.3,NSD,125.00%
+Ohio,19.1,24.6,31.00%,18.00%
+Oklahoma,13,20.3,-3.00%,-1.00%
+Oregon,8.3,12.8,11.00%,13.00%
+Pennsylvania,9,21.9,15.00%,13.00%
+Rhode Island,19.8,23.4,9.00%,4.00%
+South Carolina,10.7,14.4,98.00%,11.00%
+South Dakota,4.1,7.8,-7.00%,13.00%
+Tennessee,13.4,19.5,13.00%,8.00%
+Texas,4.3,9.7,8.00%,4.00%
+Utah,16.8,22.4,6.00%,1.00%
+Vermont,11,13.9,-5.00%,-8.00%
+Virginia,9.1,11.7,20.00%,15.00%
+Washington,9.2,13.3,3.00%,-1.00%
+West Virginia,31.6,35.5,13.00%,10.00%
+Wisconsin,11.1,15.1,5.00%,1.00%
+Wyoming,9.3,19.4,8.00%,13.00%
 ,,,,
 Notes,,,,
 "The National Vital Statistics System multiple cause-of-death mortality files were used to identify drug overdose deaths. Drug overdose deaths were classified using the International Classification of Disease, Tenth Revision (ICD-10), based on the ICD-10 underlying cause-of-death codes X40–44 (unintentional), X60–64 (suicide), X85 (homicide), or Y10–Y14 (undetermined intent). Among the deaths with drug overdose as the underlying cause, the type of opioid involved is indicated by the following ICD-10 multiple cause-of-death codes: opioids (T40.0, T40.1, T40.2, T40.3, T40.4, or T40.6); natural and semisynthetic opioids (T40.2); methadone (T40.3); synthetic opioids, other than methadone (T40.4); and heroin (T40.1).",,,,
@@ -66,3 +64,6 @@ Sources,,,,
 ,,,,
 Definitions,,,,
 *NSD*: Not sufficient data. Data supressed to ensure confidentiality.,,,,
+,,,,
+"Title: Opioid Overdose Death Rates and All Drug Overdose Death Rates per 100,000 Population (Age-Adjusted) | The Henry J. Kaiser Family Foundation",,,,
+Timeframe: 2014,,,,
